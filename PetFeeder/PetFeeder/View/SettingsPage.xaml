@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PetFeeder"
+             x:Class="PetFeeder.SettingsPage">
+    
+    <ContentPage.BindingContext>
+        <local:SettingsModel/>
+    </ContentPage.BindingContext>
+    <StackLayout>
+        <StackLayout>
+            <Label Text="Settings Page"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+        <StackLayout>
+            <Button Text="Remove Device" BackgroundColor="Blue" TextColor="White" Command="{Binding ForgetCommand}" CommandParameter="0" VerticalOptions="Center" Padding="0"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

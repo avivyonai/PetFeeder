@@ -1,0 +1,12 @@
+C:\Users\ASUS\Source\Repos\iot-course\01 Mobile App\Basic\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.deps.json
+C:\Users\ASUS\Source\Repos\iot-course\01 Mobile App\Basic\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.dll
+C:\Users\ASUS\Source\Repos\iot-course\01 Mobile App\Basic\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.pdb
+C:\Users\ASUS\Source\Repos\iot-course\01 Mobile App\Basic\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.csprojAssemblyReference.cache
+C:\Users\ASUS\Source\Repos\iot-course\01 Mobile App\Basic\CounterApp\CounterApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ASUS\Source\Repos\iot-course\01 Mobile App\Basic\CounterApp\CounterApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ASUS\Source\Repos\iot-course\01 Mobile App\Basic\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\iot-course\01 Mobile App\Basic\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\Source\Repos\iot-course\01 Mobile App\Basic\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.AssemblyInfo.cs
+C:\Users\ASUS\Source\Repos\iot-course\01 Mobile App\Basic\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.dll
+C:\Users\ASUS\Source\Repos\iot-course\01 Mobile App\Basic\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.pdb
+C:\Users\ASUS\Source\Repos\iot-course\01 Mobile App\Basic\CounterApp\CounterApp\obj\Debug\netstandard2.0\XamlC.stamp
